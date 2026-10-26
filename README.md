@@ -4,7 +4,7 @@ Descarga los estados financieros de cualquier empresa de Yahoo Finance, los orga
 
 Solo hay que cambiar el ticker.
 
-![Dashboard](ejemplos/dashboard_CIBEST_cl.png)
+![Dashboard](dashboard_CIBEST_cl.png)
 
 ## ¿Por qué el código es largo?
 
