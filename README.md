@@ -44,7 +44,6 @@ año_inicio = 2022
 año_fin = 2025
 ```
 
-Genera `analisis_<ticker>.xlsx` y `dashboard_<ticker>.png`.
 
 ## Limitaciones
 
