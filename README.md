@@ -36,7 +36,7 @@ pip install yfinance pandas numpy matplotlib seaborn openpyxl
 Abre `analisis_estados_financieros.ipynb` (o el script `analisis_estados_financieros.py`), cambia el ticker y ejecuta todo:
 
 ```python
-ticker = "NUCO.cl"
+ticker = "CIBEST.cl"
 año_inicio = 2022
 año_fin = 2025
 ```
