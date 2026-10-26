@@ -1,4 +1,7 @@
 # 📊 Análisis de estados financieros con Python (NIIF + yfinance)
+## Autor
+
+**Juan Camilo Ospina Cardona** — Ingeniero Financiero
 
 Descarga los estados financieros de cualquier empresa de Yahoo Finance, los organiza según las **NIIF**, calcula indicadores, escribe una **interpretación automática con alertas** y genera un **dashboard** y un **Excel**.
 
@@ -49,6 +52,4 @@ Genera `analisis_<ticker>.xlsx` y `dashboard_<ticker>.png`.
 - Los umbrales de la interpretación son generales; lo ideal es comparar con empresas del mismo sector.
 - No es una recomendación de inversión.
 
-## Autor
 
-**Juan** — Ingeniero Financiero, Universidad de Medellín.
